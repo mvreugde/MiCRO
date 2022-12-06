@@ -25,6 +25,5 @@ dependencies:
     - rioxarray
     - rasterio
     - pytesmo>=0.14.0
-    - ismn>=1.2.0
     - tqdm
     - ipywidgets 
