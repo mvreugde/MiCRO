@@ -1,4 +1,4 @@
-name: micro
+name: microtest
 channels:
   - defaults
   - conda-forge
